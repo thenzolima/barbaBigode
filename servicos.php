@@ -19,7 +19,7 @@
         <form name="formServico" action="insets/inset_servicos.php" method="post">
             <div id="body">
 
-                <h1><span>Cadastrar serviços</span></h1>
+                <h1><span>Cadastrar Serviços</span></h1>
 
                 <ol>
 

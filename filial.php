@@ -16,7 +16,7 @@
 
         <!-- CORPO DA PÁGINA -->
 
-        <form name="formServico" action="insets/inset_filial.php" method="post">
+        <form name="formFilial" action="insets/inset_filial.php" method="post">
             <div id="body">
 
                 <h1><span>Cadastrar Filial</span></h1>

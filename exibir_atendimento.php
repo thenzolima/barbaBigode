@@ -41,11 +41,11 @@
                         if ($result->num_rows > 0) {
                             while ($row = $result->fetch_assoc()) {
                                 echo "<tr>";
-                                echo "<td>".$row['nome']."</td>";
-                                echo "<td>".$row['descricao']."</td>";
-                                echo "<td>".$row['descricaoF']."</td>";
-                                echo "<td>".$row['dataAtendimento']."</td>";
-                                echo "<td>".$row['horario']."</td>";
+                                    echo "<td>".$row['nome']."</td>";
+                                    echo "<td>".$row['descricao']."</td>";
+                                    echo "<td>".$row['descricaoF']."</td>";
+                                    echo "<td>".$row['dataAtendimento']."</td>";
+                                    echo "<td>".$row['horario']."</td>";
                                 echo "</tr>";
                             }
                         } else{

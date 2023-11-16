@@ -16,7 +16,7 @@
 
         <!-- CORPO DA PÁGINA -->
 
-        <form name="formServico" action="insets/inset_atendimentos.php" method="post">
+        <form name="formAtendimento" action="insets/inset_atendimentos.php" method="post">
             <div id="body">
 
                 <h1><span>Agende o Atendimento</span></h1>

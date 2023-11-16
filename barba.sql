@@ -5,7 +5,7 @@ USE barbabigode;
 CREATE TABLE servico(
 idServico int PRIMARY KEY AUTO_INCREMENT,
 descricao varchar(50) NOT NULL,
-preco float
+preco float NOT NULL
 );
 
 CREATE TABLE filial(
