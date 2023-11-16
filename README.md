@@ -4,3 +4,7 @@
 - Cole o resto dos arquivos no diretório do xampp em `/htdocs`
 - Vá no seu navegador e digite `localhost/nome_da_pasta/`
 - E pronto!
+
+---
+
+A interface é um `fork` de [Regilan Meira](https://github.com/regilanmeira)
